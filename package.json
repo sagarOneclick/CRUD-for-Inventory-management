@@ -1,0 +1,24 @@
+{
+  "name": "crud-for-inventory-management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagarOneclick/CRUD-for-Inventory-management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagarOneclick/CRUD-for-Inventory-management/issues"
+  },
+  "homepage": "https://github.com/sagarOneclick/CRUD-for-Inventory-management#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "zod": "^3.24.1"
+  }
+}
