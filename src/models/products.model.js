@@ -1,6 +1,6 @@
 const mongoose = require('mongoose')
-const Categories = require('./categories.model')
-
+const {Categories} = require('./categories.model')
+const { Schema } = mongoose;
 const productsSchema = mongoose.Schema({
     productid:{
         type:Number
